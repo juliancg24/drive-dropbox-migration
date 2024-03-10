@@ -2,3 +2,10 @@ google-api-python-client==2.48.0
 google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.4.6
 dropbox==11.26.0
+google-api-python-client==2.121.0
+google-auth==1.33.0
+google-api-core==1.25.1
+protobuf==3.19.1
+googleapis-common-protos==1.53.0
+google-cloud-storage==1.31.0
+google-cloud-core==1.7.1
